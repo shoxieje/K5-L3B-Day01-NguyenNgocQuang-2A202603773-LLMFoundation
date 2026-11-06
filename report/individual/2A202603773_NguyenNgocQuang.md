@@ -36,4 +36,10 @@
 
 ## 7. AI log và điều đã học
 
-*Mỗi lần dùng AI: hỏi gì, nhận gì, bạn sửa gì. Sau đó 2–3 câu: điều bạn hiểu ra hôm nay mà trước đó chưa hiểu.*
+**AI log**
+
+- Tôi hỏi AI bài nộp đã đủ chưa, AI liệt kê 4 file cần có trong `report/individual/` và các phần còn thiếu, tôi tự chạy lại notebook trên Colab.
+- Tôi hỏi AI có để trống `predict("tradeoff")` và `predict("hard_eval")` được không, AI giải thích `"..."` sẽ làm notebook báo lỗi và dừng, nên tôi ghi `"not sure"` vì chưa có dự đoán rõ ràng.
+- Tôi hỏi AI vì sao chạy lại vẫn lỗi ở `tradeoff`, AI chỉ ra tôi chạy ô `predict` trước khi sửa chữ, nên tôi chạy lại ô đó rồi chạy các ô phía dưới.
+
+**Điều đã học:** Notebook bắt phải ghi dự đoán trước khi chạy thí nghiệm, để so được mình nghĩ gì với kết quả thật. Lần sau tôi sẽ đoán thử dù chưa chắc, vì đoán sai cũng giúp mình hiểu bài hơn.
