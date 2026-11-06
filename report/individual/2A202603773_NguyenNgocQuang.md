@@ -1,10 +1,8 @@
 # Báo cáo cá nhân — Day 01: Lọc tin nhắn rác bằng ML, DL, Embedding và LLM
 
-> Đổi tên file này thành `MSSV_HoTen.md` của bạn, ví dụ `2A20260000_NguyenVanAn.md`, rồi điền từng mục. Xoá các dòng hướng dẫn in nghiêng khi xong.
-
-- **MSSV:**
-- **Họ và tên:**
-- **SEED** (in ở ô đầu notebook):
+- **MSSV:** 2A202603773
+- **Họ và tên:** Nguyễn Ngọc Quang
+- **SEED** (in ở ô đầu notebook): 3060
 
 ## 1. Bằng chứng
 
@@ -28,7 +26,9 @@
 
 ## 5. Thử thách cá nhân
 
-*Đề theo SEED của bạn, cách làm, kết quả, giải thích.*
+**Đề #1 (SEED 3060 % 6 = 0):** Đổi ngưỡng quyết định 0.5 → 0.2 và → 0.8 cho mô hình Phần 1. Báo precision/recall/F1 từng ngưỡng. Một ngân hàng sợ chặn nhầm tin OTP thì nên chọn ngưỡng nào? Vì sao?
+
+*Cách làm, kết quả, giải thích.*
 
 ## 6. Phương án cho sản phẩm thật
 
